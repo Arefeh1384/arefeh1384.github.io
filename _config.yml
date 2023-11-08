@@ -116,7 +116,7 @@ author:
   linkedin:
   google_scholar: Q25s5KkAAAAJ
   github: Arefeh1384
-  : saulehe
+  instagram: arefeh.a1384
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -134,11 +134,11 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Arong"
+      url: "http://t.me/Sauleh"
 
 # Site Footer
 footer:
@@ -158,8 +158,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: ""
-      icon: "fab fa-fw fa-"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url:
 
 
