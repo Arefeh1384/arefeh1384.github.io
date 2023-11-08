@@ -16,7 +16,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" 
+locale                   : "Iran" 
 title                    : "arefeh"
 title_separator          : "-"
 name                     : "arefeh" 
@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "arefeh atashgar"
   avatar           : "/assets/images/arefeh.jpg"
-  bio              : I'm the student of coputer engineering
+  bio              : I'm the student of computer engineering
   location         : "تهران"
   email            : arefeatashgar@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin:
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: Arefeh1384
+  : saulehe
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -134,11 +134,11 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-"
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/Arong"
 
 # Site Footer
 footer:
@@ -158,8 +158,8 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: ""
+      icon: "fab fa-fw fa-"
       # url:
 
 
