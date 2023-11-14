@@ -14,7 +14,7 @@ my favorite lessons are:
 
 
 
-| lessons            |
+| **lessons**        |
 |--------------------|
 |math                |
 |--------------------|
