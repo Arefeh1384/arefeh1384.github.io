@@ -11,6 +11,8 @@ my favorite books are:
 -
 -
 -
+
+
 | books              | my score |
 |--------------------|----------|
 |anne with A         |9/10      |
