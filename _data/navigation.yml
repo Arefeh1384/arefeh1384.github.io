@@ -2,18 +2,18 @@
 main:
   - title: "education"
     url: /education/
-  - title: "Courses"
-    url: /courses/
-  - title: "Friends"
-    url: /friends/
+  - title: "favorite_lessons"
+    url: /favorite_lessons/
+  - title: "purpose"
+    url: /purpose/
   - title: "series"
     url: /series/
   - title: "Hobbies"
     url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
-  - title: "Blog"
-    url: /blog/
+  - title: "books"
+    url: /books/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

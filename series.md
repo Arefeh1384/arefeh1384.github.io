@@ -8,7 +8,9 @@ modified: 11-14-2023
 comments: false
 ---
 
- ![my lovely liar](assets\images\mylovelyliar.jpg)
+![my lovely liar](assets/images/mylovelyliar.jpg)
+![twinklingwatermellon](assets/images/twinklingwatermellon.jpeg)
+![mr.queen](assets/images/mr.queen.jpg)
 
 -
 -
