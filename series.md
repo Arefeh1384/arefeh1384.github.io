@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /series/
 title: series
-tags: [series]
+tags: [Series]
 modified: 11-14-2023
 comments: false
 
