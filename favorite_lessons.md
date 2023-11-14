@@ -8,6 +8,9 @@ modified: 11-14-2023
 comments: false
 ---
 my favorite lessons are:
+-
+-
+-
 | lessons            |
 |--------------------|
 |math                |
