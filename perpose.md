@@ -7,7 +7,7 @@ tags: [purpose]
 modified: 4-10-2019
 comments: true
 ---
-![purpose](assets/images/purpose.webp)
+![purpose](assets/images/purpose.jpg)
 ### my purpose in the future:
 * being a bing progrmmer
 * be a great math teacher
