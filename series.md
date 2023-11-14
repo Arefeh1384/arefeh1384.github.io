@@ -6,9 +6,9 @@ title: series
 tags: [Series]
 modified: 11-14-2023
 comments: false
+---
 
-
-[my lovely liar](assets\images\mylovelyliar.jpg)
+ ![my lovely liar](assets\images\mylovelyliar.jpg)
 
 -
 -
