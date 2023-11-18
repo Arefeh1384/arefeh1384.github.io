@@ -14,26 +14,24 @@ title: triangle html
 <div dir="ltr"></div>
 <pre>
             
-                def triangle(d):
-                    if d=5:
-                    return
-                for _ in range(3):
-                    t(d)
-                    turtle.forward(d)
-                    turtle.left(120)
-                    turtle.update()
-
-
-            turtle.tracer(0)
-
-
-            t(500)
+    def triangle(d):
+        if d=5:
+            return
+        for _ in range(3):
+            t(d)
+            turtle.forward(d)
+            turtle.left(120)
             turtle.update()
-            turtle.mainloop()
+
+
+    turtle.tracer(0)
+    t(500)
+    turtle.update()
+    turtle.mainloop()
 </pre>
 
         
-<a href="file:///C:/git/FC02031/S9/tree.htmlv">
+<a href="file:///C:/git/FC02031/S9/tree.html">
             for see the fractal of tree
         </a>
         
