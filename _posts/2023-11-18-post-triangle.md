@@ -31,10 +31,10 @@ title: triangle html
 </pre>
 
         
-<a href="file:///C:/git/FC02031/S9/tree.html">
+<a href="https://arefeh1384.github.io/post-tree/">
             for see the fractal of tree
         </a>
         
-![trianfle.html](/assets/images/triangle.PNG)
+
         
  
