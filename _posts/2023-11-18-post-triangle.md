@@ -36,8 +36,7 @@ title: triangle html
 <a href="file:///C:/git/FC02031/S9/tree.htmlv">
             for see the fractal of tree
         </a>
-        <br>
-        <img src="triangle.PNG" alt="this is the fractal of triangle"weight="200">
-        <br>
+        
+![trianfle.html](/assets/images/triangle.PNG)
         
  
