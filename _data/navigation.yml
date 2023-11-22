@@ -12,6 +12,8 @@ main:
     url: /hobbies/  
   - title: "books"
     url: /books/
+  - title: "Office Hours"
+    url: /office hours/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
