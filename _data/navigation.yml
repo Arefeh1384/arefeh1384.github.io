@@ -4,8 +4,6 @@ main:
     url: /education/
   - title: "favorite_lessons"
     url: /favorite_lessons/
-  - title: "purpose"
-    url: /purpose/
   - title: "series"
     url: /series/
   - title: "Hobbies"
